@@ -1,0 +1,17 @@
+data;
+
+param nPaths := 2;
+param n := 4;
+
+param Matrix : 
+		1 2 3 4 :=
+	1	1 0 1 1
+	2 	1 1 0 1
+	;
+
+param Weight := 
+	[1] 3
+	[2] 3
+	;
+
+end;

@@ -1,0 +1,13 @@
+data;
+
+param n := 3;
+param s := 0;
+param t := 2;
+
+param : E :   c :=
+0 1 	1
+0 2		1
+1 0		1
+;
+
+end;
