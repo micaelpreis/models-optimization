@@ -7,7 +7,7 @@ It consists on producing integer linear programming (ILP) models that allow to e
 
 Control-flow testing is a technique used to test the implementation of a program.
 
-#### The problem
+#### The Problem
 
 The control-flow graph (CFG) is a directed graph (or digraph) where nodes represent code segments to be executed sequentially without branching (or basic blocks), and edges represent transfer of control flow from one code segment to another due to a branch instruction at the end of a code segment
 
